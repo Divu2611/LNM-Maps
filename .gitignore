@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+lnm-maps/node_modules
+lnm-maps/.pnp
+lnm-maps/.pnp.js
+
+# testing
+lnm-maps/coverage
+
+# production
+lnm-maps/build
+
+# misc
+lnm-maps/.DS_Store
+lnm-maps/.env.local
+lnm-maps/.env.development.local
+lnm-maps/.env.test.local
+lnm-maps/.env.production.local
+
+lnm-maps/npm-debug.log*
+lnm-maps/yarn-debug.log*
+lnm-maps/yarn-error.log*
