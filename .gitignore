@@ -21,3 +21,5 @@ lnm-maps/.env.production.local
 lnm-maps/npm-debug.log*
 lnm-maps/yarn-debug.log*
 lnm-maps/yarn-error.log*
+
+GAT
