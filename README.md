@@ -17,7 +17,7 @@ A suitable environment that is appropriate to run the following softwares:
 * MongoDB <br/>
 
 ## Future Plans
-* Currently, this project is only limit to LNMIIT (college level). This project will be expanded to the district level.
+* Currently, this project is only limited to LNMIIT (college level). This project will be expanded to atleast district level.
 * Planning to include GPS functionality as well in the project.
 
 ### Other creaters of project - [Tanay Makharia](https://github.com/tanaymakharia17)
